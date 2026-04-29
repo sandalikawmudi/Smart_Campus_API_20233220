@@ -1,0 +1,2 @@
+# Hide scripts folder from GitHub language statistics
+scripts/* linguist-detectable=false
